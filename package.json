@@ -1,0 +1,23 @@
+{
+  "name": "udemy_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "play.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon play.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexseveneight78/udemy_node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexseveneight78/udemy_node.js/issues"
+  },
+  "homepage": "https://github.com/alexseveneight78/udemy_node.js#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
